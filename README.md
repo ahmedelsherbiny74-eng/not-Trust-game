@@ -1,4 +1,4 @@
-# !Trust
+# <b>!Trust</b>
 !Trust is a challenging game inspired by some games like Trap Adventure series and similar trap-games. The game is designed to test the player's skill and patience with its unpredictable and difficult levels. The game was a college project about OOP and GUI using java.
 
 
