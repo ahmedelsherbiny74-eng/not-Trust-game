@@ -28,4 +28,4 @@ You can download the game uploaded on goolge drive in .rar format from the link 
 #### <i>Hazem Radwan</i>
 #### <i>Mohamed Adel</i>
 #### <i>Mazen Mashal</i>
-#### <i>Omar Salama (me)</i>
+#### <i>Omar Salama</i>
